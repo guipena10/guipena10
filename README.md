@@ -2,7 +2,7 @@
 <div style="display: inline_block">
 <img height="142em" src="https://github-readme-stats.vercel.app/api?username=guipena10&show_icons=true&theme=radical&include_all_commits=true&count_private=false&rank_icon=github&hide_border=false">
 
-<img height="142em" src="https://github-readme-stats.vercel.app/api/wakatime?username=guipena&langs_count=8&hide_border=false&theme=tokyonight&custom_title=Codding%20Time&title_color=e23a70&text_color=4cbdde&range=all_time&icon_color=c4ac3e">
+
 <!--
 **guipena10/guipena10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
