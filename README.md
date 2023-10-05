@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there
+<div style="display: inline_block">
+<img height="142em" src="https://github-readme-stats.vercel.app/api?username=guipena10&show_icons=true&theme=radical&include_all_commits=true&count_private=false&rank_icon=github&hide_border=false">
 
 <!--
 **guipena10/guipena10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
