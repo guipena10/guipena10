@@ -1,14 +1,14 @@
-### Hi there
+### Visão ques cara
 <div style="display: inline_block">
 <img height="142em" src="https://github-readme-stats.vercel.app/api?username=guipena10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&rank_icon=default&hide_border=false">
     
 <img height="142em" src="https://github-readme-stats.vercel.app/api/wakatime?username=guipena&langs_count=8&hide_border=false&theme=tokyonight&custom_title=Codding%20Time&range=all_time">
 
-## Contribuitions
+## Perfil
 <div style="display: inline_block">
 <img height="232.3em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guipena10&theme=tokyonight">
 
-## Skills
+## Habilidades
 
 <div style="display: inline_block">
     <img alighn="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
