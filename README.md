@@ -1,4 +1,6 @@
-### Visão ques cara
+### Hello there
+
+Statistics
 <div style="display: inline_block">
 <img height="142em" src="https://github-readme-stats.vercel.app/api?username=guipena10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&rank_icon=default&hide_border=false">
     
