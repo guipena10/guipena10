@@ -1,4 +1,13 @@
- Hello there
+<h1>Hello There!</h1>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/guilherme-pena-67b249267/)
+[![Gmail Badge](https://img.shields.io/badge/-guilhermeapena@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeapena@gmail.com)](mailto:guilhermeapena@gmail.com)
+
+## My name is Guilherme Pena
+- 👩‍💻 Web Development Student
+- 🌐 Passionate about web development
+- 💡 Love a good challenge
+
 ### Statistics
 <div style="display: inline_block">
 <img height="142em" src="https://github-readme-stats.vercel.app/api?username=guipena10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&rank_icon=default&hide_border=false">
