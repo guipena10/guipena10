@@ -1,8 +1,8 @@
 <h1>Hello There!</h1>
 
-- 👩‍💻 Estudante de Ciência da Computação.
-- 🌐 Conhecimento em HTML e CSS.
-- 📚 Atualmente aprendendo JavaScript e TypeScript
+- 🎓 Português nativo e estudando inglês atualmente nível intermediário.
+- 📚 Bacharelando Ciência da Computação.
+- 📝 Atualmente aprimorando o conhecimento em JavaScript e TypeScript
 
 ## Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/guilherme-pena-67b249267/)
@@ -20,7 +20,12 @@
 
 ## Habilidades
 <div style="display: inline_block">
-    <img alighn="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alighn="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-</div>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7C922?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+- Conhecimento em HTML, CSS e JavaScript.
+- Aprendendo back-end com Node.js.
