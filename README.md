@@ -1,8 +1,8 @@
 <h1>Hello There!</h1>
 
-- 👩‍💻 Estudante de Desenvolvimento Web.
+- 👩‍💻 Estudante de Ciência da Computação.
 - 🌐 Conhecimento em HTML e CSS.
-- 📚 Atualmente aprendendo JavaScript.
+- 📚 Atualmente aprendendo JavaScript e TypeScript
 
 ## Contato
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernanda-kipper-5958a61a9/)](https://www.linkedin.com/in/guilherme-pena-67b249267/)
